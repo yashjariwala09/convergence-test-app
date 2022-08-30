@@ -1,0 +1,6 @@
+.App {
+    background: #000000;
+    background: -webkit-linear-gradient(160deg, #000000 61%,  #9d49ee);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(160deg, #000000 61%,  #9d49ee);
+    color:white;
+}
